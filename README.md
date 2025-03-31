@@ -5,3 +5,5 @@
 -PasswordLogic.pdf is code flowchart about generating a number and checking if that number is more than or less than 100
 
 -Python.png shows the flowchard code in action
+
+-MichaelFlowerClass.pdf shows the class flowchart for OOP
