@@ -11,3 +11,5 @@
 -PythonOOP.png and Flower.py represent code using OOP to create different flower objects with a flower claas
 
 -The NetworkDesign.JPEG file shows my Networking diagram using the Mesh topology. I used the Mesh topology because it seemed to be the most effective topology since it can still work with a computer not working.
+
+-The SQLQuery file shows a buisness question being answered by using the statement "Show all the OrderDetails records where the quantity is over 20 sorted by ProductID."
