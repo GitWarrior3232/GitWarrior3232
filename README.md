@@ -13,3 +13,5 @@
 -The NetworkDesign.JPEG file shows my Networking diagram using the Mesh topology. I used the Mesh topology because it seemed to be the most effective topology since it can still work with a computer not working.
 
 -The SQLQuery file shows a buisness question being answered by using the statement "Show all the OrderDetails records where the quantity is over 20 sorted by ProductID."
+
+-MyHTML.png is my first experience with HTML where I made a small site talking about AI taking over.
